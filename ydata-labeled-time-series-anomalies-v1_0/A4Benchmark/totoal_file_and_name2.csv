@@ -1,0 +1,5 @@
+location,filename
+data/ydata-labeled-time-series-anomalies-v1_0/A4Benchmark/A4Benchmark-TS1.csv,A4Benchmark-TS1
+data/ydata-labeled-time-series-anomalies-v1_0/A4Benchmark/A4Benchmark-TS22.csv,A4Benchmark-TS22
+data/ydata-labeled-time-series-anomalies-v1_0/A4Benchmark/A4Benchmark-TS34.csv,A4Benchmark-TS34
+data/ydata-labeled-time-series-anomalies-v1_0/A4Benchmark/A4Benchmark-TS44.csv,A4Benchmark-TS44
