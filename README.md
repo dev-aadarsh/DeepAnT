@@ -1,1 +1,3 @@
-- [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu)
+- Main notebook is 'deepant_vs_lstm.ipynb'
+- Other helper notebooks are:
+ - 
